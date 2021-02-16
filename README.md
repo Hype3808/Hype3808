@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Lucsa!</h1>
+<h1 align="center">Hello, I am Lucas!</h1>
 <h3 align="center">I am a 13 year old developer from Malaysia.</h3>
 
 - I’m currently working on [**Rusty**](https://github.com/LucasWong080917/Rusty)!
