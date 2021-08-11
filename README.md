@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Lucas!</h1>
 <h3 align="center">I am a 13 year old developer from Malaysia.</h3>
 
-- I’m currently working on [**Rusty**](https://github.com/LucasWong080917/Rusty)!
+- I’m currently working on [**Bizon**](https://github.com/Hype3808/Bizon)!
 
 - Invite Rusty [HERE](https://discord.com/api/oauth2/authorize?client_id=803405588993540147&permissions=2147352566&scope=bot). The reason the bot has administrator permission is beacuase many moderation commands will be added soon!
 
