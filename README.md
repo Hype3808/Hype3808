@@ -8,10 +8,10 @@
 - Invite Draco too. It is a multifunction bot! Invite Draco [HERE](https://discord.com/api/oauth2/authorize?client_id=772664785278861323&permissions=8&scope=bot)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasWong080917&show_icons=true&locale=en&theme=dark&layout=compact" alt="LucasWong" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hype3808&show_icons=true&locale=en&theme=dark&layout=compact" alt="LucasWong" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasWong080917&show_icons=true&locale=en&layout=compact&theme=dark" alt="LucasWong" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hype3808&show_icons=true&locale=en&layout=compact&theme=dark" alt="LucasWong" />
 </p>
 <p align="left">
   <a href="https://discord.gg/CAgrUrpXnk" targer='blank'>
